@@ -1,7 +1,6 @@
 # RAIZORA
 
 Plataforma independente para planejamento de nutrição e regas de cultivo.
-Plantas que Curam é o primeiro parceiro de fertilizantes.
 
 ## Estado do projeto
 
