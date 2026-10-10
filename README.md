@@ -48,8 +48,9 @@ Lint, typecheck, testes e build PASS. Smoke do build de produção no Chrome 155
 jornada completa em 360/640/768/1024/1280 px, teclado, edição, refresh/Back,
 contraste e reflow equivalente a zoom 200%. Sem overflow da página ou erros de
 console/hidratação. Leitor de tela não instalado; árvore acessível inspecionada.
-Evidências e nove capturas em [implementation-review](specs/001-raizora-mvp/implementation-review.md)
-e [browser-smoke.json](specs/001-raizora-mvp/evidence/browser-smoke.json).
+Relatório em [implementation-review](specs/001-raizora-mvp/implementation-review.md).
+Capturas, PDFs e resultados JSON em `specs/*/evidence/` são arquivos locais
+ignorados pelo Git; os scripts de validação e relatórios Markdown são versionados.
 
 ## Artefatos aprovados
 
@@ -84,10 +85,12 @@ planejamento; o estado executável atual está em tasks.md e implementation-revi
 OQ-013 continua opcional/diferida: copy/assets são provisórios e precisam de revisão
 antes de publicação, sem impedir a conclusão funcional do MVP.
 
-Fontes disponíveis na raiz e auditadas diretamente: `Layout_celular.jpeg`,
-`tabela_nutricional.jpeg` e `base_conhecimento_plantas_que_curam_ia.pdf` (seis páginas).
-A spec identifica fontes e SHA-256; a revisão registra evidências e divergências.
-Dados oficiais, decisões do responsável e propostas permanecem separados.
+Fontes de referência auditadas: `Layout_celular.jpeg`, `tabela_nutricional.jpeg`
+e `base_conhecimento_plantas_que_curam_ia.pdf` (seis páginas). Os originais são
+mantidos apenas localmente e ignorados pelo Git; não são necessários para executar
+a aplicação ou seus testes. Links para esses arquivos nas specs exigem uma cópia
+local. A spec identifica fontes e SHA-256; a revisão registra evidências e
+divergências. Dados oficiais, decisões do responsável e propostas permanecem separados.
 
 ## Direção técnica
 

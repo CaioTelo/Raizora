@@ -6,3 +6,21 @@ coverage/
 next-env.d.ts
 .env*
 !.env.example
+
+# Referências locais usadas no desenvolvimento (não são assets da aplicação)
+/*.jpeg
+/*.jpg
+/*.pdf
+*:Zone.Identifier
+
+# Notas locais dos agentes
+/.claude/
+
+# Resultados gerados de validação; manter scripts e relatórios Markdown
+/specs/*/evidence/**/*.png
+/specs/*/evidence/**/*.jpeg
+/specs/*/evidence/**/*.jpg
+/specs/*/evidence/**/*.pdf
+/specs/*/evidence/**/*.txt
+/specs/*/evidence/**/*.json
+/specs/*/evidence/**/tasks-before.md
