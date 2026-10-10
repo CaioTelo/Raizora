@@ -1,0 +1,192 @@
+{
+  "browser": "156.0.8078.4",
+  "mode": "production localhost:3106, Chromium native printToPDF, A4 @page, scale 1, backgrounds disabled",
+  "cases": [
+    {
+      "name": "complete-vegetative1",
+      "fixture": "current production wizard 10L/2L all five",
+      "screenDisplay": "none",
+      "printDisplay": "block",
+      "visibleControls": 0,
+      "weeks": [
+        "Vegetativo · Semana 1",
+        "Vegetativo · Semana 2",
+        "Vegetativo · Semana 3",
+        "Vegetativo · Semana 4",
+        "Vegetativo · Semana 5",
+        "Vegetativo · Semana 6",
+        "Vegetativo · Semana 7",
+        "Vegetativo · Semana 8",
+        "Floração · Semana 1",
+        "Floração · Semana 2",
+        "Floração · Semana 3",
+        "Floração · Semana 4",
+        "Floração · Semana 5",
+        "Floração · Semana 6",
+        "Floração · Semana 7",
+        "Floração · Semana 8"
+      ],
+      "entries": 80,
+      "overflow": [],
+      "pageRules": [
+        "@page { size: a4; margin: 12mm; }"
+      ]
+    },
+    {
+      "name": "complete-flowering4",
+      "fixture": "same result, distinct active week and native window.print return",
+      "screenDisplay": "none",
+      "printDisplay": "block",
+      "visibleControls": 0,
+      "weeks": [
+        "Vegetativo · Semana 1",
+        "Vegetativo · Semana 2",
+        "Vegetativo · Semana 3",
+        "Vegetativo · Semana 4",
+        "Vegetativo · Semana 5",
+        "Vegetativo · Semana 6",
+        "Vegetativo · Semana 7",
+        "Vegetativo · Semana 8",
+        "Floração · Semana 1",
+        "Floração · Semana 2",
+        "Floração · Semana 3",
+        "Floração · Semana 4",
+        "Floração · Semana 5",
+        "Floração · Semana 6",
+        "Floração · Semana 7",
+        "Floração · Semana 8"
+      ],
+      "entries": 80,
+      "overflow": [],
+      "pageRules": [
+        "@page { size: a4; margin: 12mm; }"
+      ]
+    },
+    {
+      "name": "subset-decimal",
+      "fixture": "production Joker only 10.25L, no foliar volume",
+      "screenDisplay": "none",
+      "printDisplay": "block",
+      "visibleControls": 0,
+      "weeks": [
+        "Vegetativo · Semana 1",
+        "Vegetativo · Semana 2",
+        "Vegetativo · Semana 3",
+        "Vegetativo · Semana 4",
+        "Vegetativo · Semana 5",
+        "Vegetativo · Semana 6",
+        "Vegetativo · Semana 7",
+        "Vegetativo · Semana 8",
+        "Floração · Semana 1",
+        "Floração · Semana 2",
+        "Floração · Semana 3",
+        "Floração · Semana 4",
+        "Floração · Semana 5",
+        "Floração · Semana 6",
+        "Floração · Semana 7",
+        "Floração · Semana 8"
+      ],
+      "entries": 16,
+      "overflow": [],
+      "pageRules": [
+        "@page { size: a4; margin: 12mm; }"
+      ]
+    },
+    {
+      "name": "incomplete",
+      "fixture": "temporary SSR harness, production PrintPlan, existing engine and synthetic fixture; no public QA route",
+      "screenDisplay": "none",
+      "printDisplay": "block",
+      "visibleControls": 0,
+      "weeks": [
+        "Vegetativo · Semana 1",
+        "Vegetativo · Semana 2",
+        "Vegetativo · Semana 3",
+        "Vegetativo · Semana 4",
+        "Vegetativo · Semana 5",
+        "Vegetativo · Semana 6",
+        "Vegetativo · Semana 7",
+        "Vegetativo · Semana 8",
+        "Floração · Semana 1",
+        "Floração · Semana 2",
+        "Floração · Semana 3",
+        "Floração · Semana 4",
+        "Floração · Semana 5",
+        "Floração · Semana 6",
+        "Floração · Semana 7",
+        "Floração · Semana 8"
+      ],
+      "entries": 80,
+      "overflow": [],
+      "pageRules": [
+        "@page { size: a4; margin: 12mm; }"
+      ]
+    },
+    {
+      "name": "long-many",
+      "fixture": "temporary SSR harness, production PrintPlan, existing engine and synthetic fixture; no public QA route",
+      "screenDisplay": "none",
+      "printDisplay": "block",
+      "visibleControls": 0,
+      "weeks": [
+        "Vegetativo · Semana 1",
+        "Vegetativo · Semana 2",
+        "Vegetativo · Semana 3",
+        "Vegetativo · Semana 4",
+        "Vegetativo · Semana 5",
+        "Vegetativo · Semana 6",
+        "Vegetativo · Semana 7",
+        "Vegetativo · Semana 8",
+        "Floração · Semana 1",
+        "Floração · Semana 2",
+        "Floração · Semana 3",
+        "Floração · Semana 4",
+        "Floração · Semana 5",
+        "Floração · Semana 6",
+        "Floração · Semana 7",
+        "Floração · Semana 8"
+      ],
+      "entries": 320,
+      "overflow": [],
+      "pageRules": [
+        "@page { size: a4; margin: 12mm; }"
+      ]
+    },
+    {
+      "name": "subcent",
+      "fixture": "temporary SSR harness, production PrintPlan, existing engine and synthetic fixture; no public QA route",
+      "screenDisplay": "none",
+      "printDisplay": "block",
+      "visibleControls": 0,
+      "weeks": [
+        "Vegetativo · Semana 1",
+        "Vegetativo · Semana 2",
+        "Vegetativo · Semana 3",
+        "Vegetativo · Semana 4",
+        "Vegetativo · Semana 5",
+        "Vegetativo · Semana 6",
+        "Vegetativo · Semana 7",
+        "Vegetativo · Semana 8",
+        "Floração · Semana 1",
+        "Floração · Semana 2",
+        "Floração · Semana 3",
+        "Floração · Semana 4",
+        "Floração · Semana 5",
+        "Floração · Semana 6",
+        "Floração · Semana 7",
+        "Floração · Semana 8"
+      ],
+      "entries": 80,
+      "overflow": [],
+      "pageRules": [
+        "@page { size: a4; margin: 12mm; }"
+      ]
+    }
+  ],
+  "errors": [],
+  "passed": true,
+  "limitations": [
+    "Headless PDF and print media do not prove native OS dialog cancellation/saving.",
+    "Firefox/WebKit/Safari and physical printers not exercised; T052–T062 remain pending."
+  ]
+}

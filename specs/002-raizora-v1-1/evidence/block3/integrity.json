@@ -1,0 +1,292 @@
+{
+  "protectedCount": 54,
+  "allProtectedPreserved": true,
+  "unexpectedChanges": [],
+  "taskDefinitionsDependenciesPreserved": true,
+  "completeTasks": 51,
+  "pendingTasks": [
+    "T052",
+    "T053",
+    "T054",
+    "T055",
+    "T056",
+    "T057",
+    "T058",
+    "T059",
+    "T060",
+    "T061",
+    "T062"
+  ],
+  "protected": {
+    "src/domain/brands/types.ts": {
+      "before": "9ad521a54018aebe8b573fb6801ad369beb99f1abf272c5612d3f5c7bbee9683",
+      "after": "9ad521a54018aebe8b573fb6801ad369beb99f1abf272c5612d3f5c7bbee9683",
+      "preserved": true
+    },
+    "src/domain/calculation/types.ts": {
+      "before": "96d208614d04b168af03338344acfbd27b76197c93ab909892728f64b75714e7",
+      "after": "96d208614d04b168af03338344acfbd27b76197c93ab909892728f64b75714e7",
+      "preserved": true
+    },
+    "src/domain/calculation/validate-input.ts": {
+      "before": "eac75759b8c2ac38f7c50e91afa9b0ef50c7b707afd1ae43bc229b8c1661d276",
+      "after": "eac75759b8c2ac38f7c50e91afa9b0ef50c7b707afd1ae43bc229b8c1661d276",
+      "preserved": true
+    },
+    "src/domain/calculation/calculate-plan.ts": {
+      "before": "008feb9fb5d362de0dd351255c2bbfbd0d334b1a1f92757e4ec0de9f1133e9a0",
+      "after": "008feb9fb5d362de0dd351255c2bbfbd0d334b1a1f92757e4ec0de9f1133e9a0",
+      "preserved": true
+    },
+    "src/domain/nutrition/types.ts": {
+      "before": "0be6a2b694ff1bf6535fdc17503315cb75625d454a867551d4f1d22f9653da77",
+      "after": "0be6a2b694ff1bf6535fdc17503315cb75625d454a867551d4f1d22f9653da77",
+      "preserved": true
+    },
+    "src/domain/nutrition/validate-schedule.ts": {
+      "before": "3fe879a3e676e5a88bda5fe533e55fb3e780d75eb19b583794bf0237230ffea9",
+      "after": "3fe879a3e676e5a88bda5fe533e55fb3e780d75eb19b583794bf0237230ffea9",
+      "preserved": true
+    },
+    "src/domain/products/types.ts": {
+      "before": "1687f6bf5360a85e423d7f9a35cab4c4ee6883bb7adc7a377a77d6112f10db61",
+      "after": "1687f6bf5360a85e423d7f9a35cab4c4ee6883bb7adc7a377a77d6112f10db61",
+      "preserved": true
+    },
+    "src/data/brands/plantas-que-curam/products.ts": {
+      "before": "6ff4dcd58162c8698c58b071ee8288bf8efe0570cdf27e00a2308314066cf7d4",
+      "after": "6ff4dcd58162c8698c58b071ee8288bf8efe0570cdf27e00a2308314066cf7d4",
+      "preserved": true
+    },
+    "src/data/brands/plantas-que-curam/schedule.ts": {
+      "before": "2e0308753f2982738f855e849d1512b566090a0c98b7e83eb12008ef76e517b8",
+      "after": "2e0308753f2982738f855e849d1512b566090a0c98b7e83eb12008ef76e517b8",
+      "preserved": true
+    },
+    "src/data/brands/plantas-que-curam/brand.ts": {
+      "before": "c4641b915f6d889a88b9cadb36588d232a1c64bf4d228ea50cdefc1206238502",
+      "after": "c4641b915f6d889a88b9cadb36588d232a1c64bf4d228ea50cdefc1206238502",
+      "preserved": true
+    },
+    "tests/ui/result-fixtures.ts": {
+      "before": "65e352f2d5d2b3c7047d08b8692f5376554e692e492a0926f39edf6e856aa833",
+      "after": "65e352f2d5d2b3c7047d08b8692f5376554e692e492a0926f39edf6e856aa833",
+      "preserved": true
+    },
+    "tests/unit/calculation-contract.test.ts": {
+      "before": "611e15ee9c14b52d52a99722a38eb3f774687537fd4a5e3648d806d7bf78a7a8",
+      "after": "611e15ee9c14b52d52a99722a38eb3f774687537fd4a5e3648d806d7bf78a7a8",
+      "preserved": true
+    },
+    "tests/unit/feeding-schedule.test.ts": {
+      "before": "2f0ec86815572aad25cd224c5b49033b63d0acc5da7e7b4349933e417f92c7b5",
+      "after": "2f0ec86815572aad25cd224c5b49033b63d0acc5da7e7b4349933e417f92c7b5",
+      "preserved": true
+    },
+    "tests/unit/fixtures.ts": {
+      "before": "b145634cb234c46db5fc421adc9a5788f60eafec90076462c3503f615ca17e7f",
+      "after": "b145634cb234c46db5fc421adc9a5788f60eafec90076462c3503f615ca17e7f",
+      "preserved": true
+    },
+    "tests/unit/parse-input.test.ts": {
+      "before": "944fd084c1d75b131c33d9fb2aac9e265fe118d397f3f41e2648f2f2408cc3e8",
+      "after": "944fd084c1d75b131c33d9fb2aac9e265fe118d397f3f41e2648f2f2408cc3e8",
+      "preserved": true
+    },
+    "tests/unit/validate-input.test.ts": {
+      "before": "6fa8e25ddc738e50e9c9582fa853ec722b890a96cf63b2fea5b9a9c4c9eb60b3",
+      "after": "6fa8e25ddc738e50e9c9582fa853ec722b890a96cf63b2fea5b9a9c4c9eb60b3",
+      "preserved": true
+    },
+    "tests/unit/validate-schedule.test.ts": {
+      "before": "71675b85626095a562450c5cbe2cc0866f86fe8aa918142f339567f80cfb4744",
+      "after": "71675b85626095a562450c5cbe2cc0866f86fe8aa918142f339567f80cfb4744",
+      "preserved": true
+    },
+    "tests/unit/foundation.test.ts": {
+      "before": "28c55fd5da1a1e956fc671ad32b1bb13ab1a4da9daeefc4c459b28257ddc05ce",
+      "after": "28c55fd5da1a1e956fc671ad32b1bb13ab1a4da9daeefc4c459b28257ddc05ce",
+      "preserved": true
+    },
+    "tests/unit/format-quantity.test.ts": {
+      "before": "a92e7a2dc90bdf6b2fafd1a2b4525c274ec1d811949299af59394a26f3eeb8c8",
+      "after": "a92e7a2dc90bdf6b2fafd1a2b4525c274ec1d811949299af59394a26f3eeb8c8",
+      "preserved": true
+    },
+    "tests/unit/calculation-reference.test.ts": {
+      "before": "f4e924e5e80cbb33503218464d3aac52b037310cb3cfbee39162d48d723ac619",
+      "after": "f4e924e5e80cbb33503218464d3aac52b037310cb3cfbee39162d48d723ac619",
+      "preserved": true
+    },
+    "tests/unit/result-selectors.test.ts": {
+      "before": "502b5de2a41a1d6d06103627c8c789768454af926796680948b30c470478b267",
+      "after": "502b5de2a41a1d6d06103627c8c789768454af926796680948b30c470478b267",
+      "preserved": true
+    },
+    "tests/unit/calculation-totals.test.ts": {
+      "before": "77c46c0113dbf194315eeee647e2a675bd90ccaff02f2291e8ae3f33e360fb11",
+      "after": "77c46c0113dbf194315eeee647e2a675bd90ccaff02f2291e8ae3f33e360fb11",
+      "preserved": true
+    },
+    "tests/unit/calculation-weeks.test.ts": {
+      "before": "cf9b09ce3675ae9ef1d7c52acae8d8a94c5c7402bf7c72c5dac230fcfb7533a6",
+      "after": "cf9b09ce3675ae9ef1d7c52acae8d8a94c5c7402bf7c72c5dac230fcfb7533a6",
+      "preserved": true
+    },
+    "specs/001-raizora-mvp/planning-review.md": {
+      "before": "b05b3332cad51a7ebb4b7efda78de89b494b87fcb60aac4ea3deaf970d6c34ac",
+      "after": "b05b3332cad51a7ebb4b7efda78de89b494b87fcb60aac4ea3deaf970d6c34ac",
+      "preserved": true
+    },
+    "specs/001-raizora-mvp/review.md": {
+      "before": "ed9737c69320ee815573a36fa867111ba99225e5b383b4a9ac181278b779b1d6",
+      "after": "ed9737c69320ee815573a36fa867111ba99225e5b383b4a9ac181278b779b1d6",
+      "preserved": true
+    },
+    "specs/001-raizora-mvp/spec.md": {
+      "before": "b7c9804290e77aec35141bf7e8500e406b65f3fa274c9300ff703530caa0fd99",
+      "after": "b7c9804290e77aec35141bf7e8500e406b65f3fa274c9300ff703530caa0fd99",
+      "preserved": true
+    },
+    "specs/001-raizora-mvp/data-model.md": {
+      "before": "9737e4bb6ddf66028600232fc99907fb37c239eb5861fe885a873b87937021c4",
+      "after": "9737e4bb6ddf66028600232fc99907fb37c239eb5861fe885a873b87937021c4",
+      "preserved": true
+    },
+    "specs/001-raizora-mvp/plan.md": {
+      "before": "625d3edb1f7e6f22ba39b85b77c6534cfe5d40961022e818af84be82e6077b48",
+      "after": "625d3edb1f7e6f22ba39b85b77c6534cfe5d40961022e818af84be82e6077b48",
+      "preserved": true
+    },
+    "specs/001-raizora-mvp/implementation-review.md": {
+      "before": "9b5132e9d7d65ed480c0064f4af8541a24f8965cbda4e55a11856afd153411ee",
+      "after": "9b5132e9d7d65ed480c0064f4af8541a24f8965cbda4e55a11856afd153411ee",
+      "preserved": true
+    },
+    "specs/001-raizora-mvp/open-questions.md": {
+      "before": "cc7fa37bf79de445a77cf23aa444ceacfa3640a04bc0ed6fef5b49dbc3556919",
+      "after": "cc7fa37bf79de445a77cf23aa444ceacfa3640a04bc0ed6fef5b49dbc3556919",
+      "preserved": true
+    },
+    "specs/001-raizora-mvp/quickstart.md": {
+      "before": "58e75552569ea0fb1e4b2c96c13365073b126d2f383b3b44a1c5b524eb592b6b",
+      "after": "58e75552569ea0fb1e4b2c96c13365073b126d2f383b3b44a1c5b524eb592b6b",
+      "preserved": true
+    },
+    "specs/001-raizora-mvp/research.md": {
+      "before": "39c3371018933c6f76df53b8ca80887e5b58f0a91b59f4a856bfc47c7b10d6fb",
+      "after": "39c3371018933c6f76df53b8ca80887e5b58f0a91b59f4a856bfc47c7b10d6fb",
+      "preserved": true
+    },
+    "specs/001-raizora-mvp/tasks.md": {
+      "before": "21e5041f7a42eab61e757e4246e6edcc314b0c62f9e1c5fffae3ca9e8d6e9f00",
+      "after": "21e5041f7a42eab61e757e4246e6edcc314b0c62f9e1c5fffae3ca9e8d6e9f00",
+      "preserved": true
+    },
+    "specs/002-raizora-v1-1/spec.md": {
+      "before": "b60fc070902ff4ecf7f46df8d27e80ec3695dd5597b734d232d63527385a9ddf",
+      "after": "b60fc070902ff4ecf7f46df8d27e80ec3695dd5597b734d232d63527385a9ddf",
+      "preserved": true
+    },
+    "specs/002-raizora-v1-1/plan.md": {
+      "before": "ad4b74b478197442da118a934106711fee1a43af8290f3f2e7e7e09246137211",
+      "after": "ad4b74b478197442da118a934106711fee1a43af8290f3f2e7e7e09246137211",
+      "preserved": true
+    },
+    "specs/002-raizora-v1-1/contracts/navigation.md": {
+      "before": "5255af646615cf4c2b3fd4fdf0fa4d90e62c5cf0ffafa0c14183aa869eab54d7",
+      "after": "5255af646615cf4c2b3fd4fdf0fa4d90e62c5cf0ffafa0c14183aa869eab54d7",
+      "preserved": true
+    },
+    "specs/001-raizora-mvp/contracts/wizard.md": {
+      "before": "d6f7d103d44c3c51a85b1bf3534631013bc51678099772db66113eab66cdbd77",
+      "after": "d6f7d103d44c3c51a85b1bf3534631013bc51678099772db66113eab66cdbd77",
+      "preserved": true
+    },
+    "specs/001-raizora-mvp/contracts/calculation.md": {
+      "before": "ed742aea97e021882cbcc4a790417b378b9fb8dadae0e70a552f88e2d71578d3",
+      "after": "ed742aea97e021882cbcc4a790417b378b9fb8dadae0e70a552f88e2d71578d3",
+      "preserved": true
+    },
+    "specs/001-raizora-mvp/checklists/requirements.md": {
+      "before": "1f924901ecd624b17c9753aa9e32dd7b7c460f55c601283b16144c7a537cdd9d",
+      "after": "1f924901ecd624b17c9753aa9e32dd7b7c460f55c601283b16144c7a537cdd9d",
+      "preserved": true
+    },
+    "specs/001-raizora-mvp/evidence/recipe-768.png": {
+      "before": "f895dbc5d0c3f917d9280c8e666b2ab23d26dce9bac039a5ea77bc8fd04399bc",
+      "after": "f895dbc5d0c3f917d9280c8e666b2ab23d26dce9bac039a5ea77bc8fd04399bc",
+      "preserved": true
+    },
+    "specs/001-raizora-mvp/evidence/plan-1280.png": {
+      "before": "835cac89d6ba3c6f6cee06df2d6aedb836a907e374f2c7308373113f399c0a34",
+      "after": "835cac89d6ba3c6f6cee06df2d6aedb836a907e374f2c7308373113f399c0a34",
+      "preserved": true
+    },
+    "specs/001-raizora-mvp/evidence/recipe-1280.png": {
+      "before": "5f11b996c94351f201a42b8049aad647a725c668533e33e0763b58ca57a29087",
+      "after": "5f11b996c94351f201a42b8049aad647a725c668533e33e0763b58ca57a29087",
+      "preserved": true
+    },
+    "specs/001-raizora-mvp/evidence/summary-360.png": {
+      "before": "90aa561b10c34e378d606640a582b0f7949ca9f8fadde2f4958e4be13b7c6eaf",
+      "after": "90aa561b10c34e378d606640a582b0f7949ca9f8fadde2f4958e4be13b7c6eaf",
+      "preserved": true
+    },
+    "specs/001-raizora-mvp/evidence/browser-smoke.json": {
+      "before": "4d7d5a4ac5fe2d821fa595756b97ac6ae92978888d7b0d76fde766a36ec18f18",
+      "after": "4d7d5a4ac5fe2d821fa595756b97ac6ae92978888d7b0d76fde766a36ec18f18",
+      "preserved": true
+    },
+    "specs/001-raizora-mvp/evidence/summary-768.png": {
+      "before": "befc2d43c5ffb4bdd285b65e08b8d3f282489f4d4c9f40db00c0231962fdcb98",
+      "after": "befc2d43c5ffb4bdd285b65e08b8d3f282489f4d4c9f40db00c0231962fdcb98",
+      "preserved": true
+    },
+    "specs/001-raizora-mvp/evidence/plan-768.png": {
+      "before": "56813f90d4adc806312b1db047764ccdb4b3ca69e4f72f3255e1df34742a82fb",
+      "after": "56813f90d4adc806312b1db047764ccdb4b3ca69e4f72f3255e1df34742a82fb",
+      "preserved": true
+    },
+    "specs/001-raizora-mvp/evidence/recipe-360.png": {
+      "before": "70836948ac4b89a014b7991483e73abefce357aae4b7c944f0c31eabfd3589ad",
+      "after": "70836948ac4b89a014b7991483e73abefce357aae4b7c944f0c31eabfd3589ad",
+      "preserved": true
+    },
+    "specs/001-raizora-mvp/evidence/summary-1280.png": {
+      "before": "b7e826a21e89afbea5741c4bc5a2b1eb108379bdc0650064634350cfdf0d5d26",
+      "after": "b7e826a21e89afbea5741c4bc5a2b1eb108379bdc0650064634350cfdf0d5d26",
+      "preserved": true
+    },
+    "specs/001-raizora-mvp/evidence/plan-360.png": {
+      "before": "9c1baad87d1a7f7390dd81ecb6c3e4725695dcb746b0c0590df8ee6550450288",
+      "after": "9c1baad87d1a7f7390dd81ecb6c3e4725695dcb746b0c0590df8ee6550450288",
+      "preserved": true
+    },
+    ".specify/memory/constitution.md": {
+      "before": "d04d0098ce0972044863d9a6f70a42f88395a27d745675e893113ac0ba06bb1c",
+      "after": "d04d0098ce0972044863d9a6f70a42f88395a27d745675e893113ac0ba06bb1c",
+      "preserved": true
+    },
+    "package.json": {
+      "before": "89531b152c5a434bb2897437ced92ac7d14e5531e370855d1a576499b9711cac",
+      "after": "89531b152c5a434bb2897437ced92ac7d14e5531e370855d1a576499b9711cac",
+      "preserved": true
+    },
+    "base_conhecimento_plantas_que_curam_ia.pdf": {
+      "before": "e0cff5da172b2a0b9fc0787771d6399c73eec8d7afb2ca5cf07506d08762a760",
+      "after": "e0cff5da172b2a0b9fc0787771d6399c73eec8d7afb2ca5cf07506d08762a760",
+      "preserved": true
+    },
+    "package-lock.json": {
+      "before": "393c0d760ccb0374b08e59c549387d7fbd4387b21d31a5563e7fd1380dc87ceb",
+      "after": "393c0d760ccb0374b08e59c549387d7fbd4387b21d31a5563e7fd1380dc87ceb",
+      "preserved": true
+    },
+    "tabela_nutricional.jpeg": {
+      "before": "0dc9128d6c48ce7d492058449ee99336bbdd413763df1bad46d35d25609793a7",
+      "after": "0dc9128d6c48ce7d492058449ee99336bbdd413763df1bad46d35d25609793a7",
+      "preserved": true
+    }
+  }
+}

@@ -1,0 +1,1608 @@
+{
+  "method": "Mozilla PDF.js: all page text, A4 media boxes, text bounding boxes, contextual repeated headers and raster images",
+  "documents": [
+    {
+      "name": "complete-vegetative1",
+      "pages": 10,
+      "measurements": [
+        {
+          "page": 1,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 92,
+          "headings": [
+            "Vegetativo · Semana 1",
+            "Vegetativo · Semana 1"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.8004394215961
+        },
+        {
+          "page": 2,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 110,
+          "headings": [
+            "Vegetativo · Semana 1",
+            "Vegetativo · Semana 2",
+            "Vegetativo · Semana 2",
+            "Vegetativo · Semana 3",
+            "Vegetativo · Semana 3"
+          ],
+          "repeatedHeaders": 3,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.8004394215961
+        },
+        {
+          "page": 3,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 108,
+          "headings": [
+            "Vegetativo · Semana 3",
+            "Vegetativo · Semana 4",
+            "Vegetativo · Semana 4"
+          ],
+          "repeatedHeaders": 2,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.8004394215961
+        },
+        {
+          "page": 4,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 117,
+          "headings": [
+            "Vegetativo · Semana 5",
+            "Vegetativo · Semana 5",
+            "Vegetativo · Semana 6",
+            "Vegetativo · Semana 6"
+          ],
+          "repeatedHeaders": 2,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.8004394215961
+        },
+        {
+          "page": 5,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 110,
+          "headings": [
+            "Vegetativo · Semana 6",
+            "Vegetativo · Semana 7",
+            "Vegetativo · Semana 7",
+            "Vegetativo · Semana 8",
+            "Vegetativo · Semana 8"
+          ],
+          "repeatedHeaders": 3,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.8004394215961
+        },
+        {
+          "page": 6,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 105,
+          "headings": [
+            "Vegetativo · Semana 8",
+            "Floração · Semana 1",
+            "Floração · Semana 1",
+            "Floração · Semana 2",
+            "Floração · Semana 2"
+          ],
+          "repeatedHeaders": 3,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.8004394215961
+        },
+        {
+          "page": 7,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 100,
+          "headings": [
+            "Floração · Semana 2",
+            "Floração · Semana 3",
+            "Floração · Semana 3",
+            "Floração · Semana 4",
+            "Floração · Semana 4"
+          ],
+          "repeatedHeaders": 3,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.8004394215961
+        },
+        {
+          "page": 8,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 100,
+          "headings": [
+            "Floração · Semana 4",
+            "Floração · Semana 5",
+            "Floração · Semana 5",
+            "Floração · Semana 6",
+            "Floração · Semana 6"
+          ],
+          "repeatedHeaders": 3,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.8004394215961
+        },
+        {
+          "page": 9,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 100,
+          "headings": [
+            "Floração · Semana 6",
+            "Floração · Semana 7",
+            "Floração · Semana 7",
+            "Floração · Semana 8",
+            "Floração · Semana 8"
+          ],
+          "repeatedHeaders": 3,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.8004394215961
+        },
+        {
+          "page": 10,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 124,
+          "headings": [
+            "Floração · Semana 8"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 551.586835640551
+        }
+      ],
+      "contactSheets": [
+        "complete-vegetative1-contact-1.png",
+        "complete-vegetative1-contact-2.png"
+      ],
+      "productRowHeaders": 85
+    },
+    {
+      "name": "complete-flowering4",
+      "pages": 10,
+      "measurements": [
+        {
+          "page": 1,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 92,
+          "headings": [
+            "Vegetativo · Semana 1",
+            "Vegetativo · Semana 1"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.8004394215961
+        },
+        {
+          "page": 2,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 110,
+          "headings": [
+            "Vegetativo · Semana 1",
+            "Vegetativo · Semana 2",
+            "Vegetativo · Semana 2",
+            "Vegetativo · Semana 3",
+            "Vegetativo · Semana 3"
+          ],
+          "repeatedHeaders": 3,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.8004394215961
+        },
+        {
+          "page": 3,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 108,
+          "headings": [
+            "Vegetativo · Semana 3",
+            "Vegetativo · Semana 4",
+            "Vegetativo · Semana 4"
+          ],
+          "repeatedHeaders": 2,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.8004394215961
+        },
+        {
+          "page": 4,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 117,
+          "headings": [
+            "Vegetativo · Semana 5",
+            "Vegetativo · Semana 5",
+            "Vegetativo · Semana 6",
+            "Vegetativo · Semana 6"
+          ],
+          "repeatedHeaders": 2,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.8004394215961
+        },
+        {
+          "page": 5,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 110,
+          "headings": [
+            "Vegetativo · Semana 6",
+            "Vegetativo · Semana 7",
+            "Vegetativo · Semana 7",
+            "Vegetativo · Semana 8",
+            "Vegetativo · Semana 8"
+          ],
+          "repeatedHeaders": 3,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.8004394215961
+        },
+        {
+          "page": 6,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 105,
+          "headings": [
+            "Vegetativo · Semana 8",
+            "Floração · Semana 1",
+            "Floração · Semana 1",
+            "Floração · Semana 2",
+            "Floração · Semana 2"
+          ],
+          "repeatedHeaders": 3,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.8004394215961
+        },
+        {
+          "page": 7,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 100,
+          "headings": [
+            "Floração · Semana 2",
+            "Floração · Semana 3",
+            "Floração · Semana 3",
+            "Floração · Semana 4",
+            "Floração · Semana 4"
+          ],
+          "repeatedHeaders": 3,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.8004394215961
+        },
+        {
+          "page": 8,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 100,
+          "headings": [
+            "Floração · Semana 4",
+            "Floração · Semana 5",
+            "Floração · Semana 5",
+            "Floração · Semana 6",
+            "Floração · Semana 6"
+          ],
+          "repeatedHeaders": 3,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.8004394215961
+        },
+        {
+          "page": 9,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 100,
+          "headings": [
+            "Floração · Semana 6",
+            "Floração · Semana 7",
+            "Floração · Semana 7",
+            "Floração · Semana 8",
+            "Floração · Semana 8"
+          ],
+          "repeatedHeaders": 3,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.8004394215961
+        },
+        {
+          "page": 10,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 124,
+          "headings": [
+            "Floração · Semana 8"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 551.586835640551
+        }
+      ],
+      "contactSheets": [
+        "complete-flowering4-contact-1.png",
+        "complete-flowering4-contact-2.png"
+      ],
+      "productRowHeaders": 85
+    },
+    {
+      "name": "subset-decimal",
+      "pages": 5,
+      "measurements": [
+        {
+          "page": 1,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 90,
+          "headings": [
+            "Vegetativo · Semana 1",
+            "Vegetativo · Semana 1",
+            "Vegetativo · Semana 2",
+            "Vegetativo · Semana 2"
+          ],
+          "repeatedHeaders": 2,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 528.0022581940792
+        },
+        {
+          "page": 2,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 96,
+          "headings": [
+            "Vegetativo · Semana 3",
+            "Vegetativo · Semana 3",
+            "Vegetativo · Semana 4",
+            "Vegetativo · Semana 4",
+            "Vegetativo · Semana 5",
+            "Vegetativo · Semana 5",
+            "Vegetativo · Semana 6",
+            "Vegetativo · Semana 6"
+          ],
+          "repeatedHeaders": 4,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 551.163724281459
+        },
+        {
+          "page": 3,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 96,
+          "headings": [
+            "Vegetativo · Semana 7",
+            "Vegetativo · Semana 7",
+            "Vegetativo · Semana 8",
+            "Vegetativo · Semana 8",
+            "Floração · Semana 1",
+            "Floração · Semana 1",
+            "Floração · Semana 2",
+            "Floração · Semana 2"
+          ],
+          "repeatedHeaders": 4,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 551.163724281459
+        },
+        {
+          "page": 4,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 90,
+          "headings": [
+            "Floração · Semana 3",
+            "Floração · Semana 3",
+            "Floração · Semana 4",
+            "Floração · Semana 4",
+            "Floração · Semana 5",
+            "Floração · Semana 5",
+            "Floração · Semana 6",
+            "Floração · Semana 6"
+          ],
+          "repeatedHeaders": 4,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 551.163724281459
+        },
+        {
+          "page": 5,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 94,
+          "headings": [
+            "Floração · Semana 7",
+            "Floração · Semana 7",
+            "Floração · Semana 8",
+            "Floração · Semana 8"
+          ],
+          "repeatedHeaders": 2,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 551.586835640551
+        }
+      ],
+      "contactSheets": [
+        "subset-decimal-contact-1.png"
+      ],
+      "productRowHeaders": 17
+    },
+    {
+      "name": "incomplete",
+      "pages": 11,
+      "measurements": [
+        {
+          "page": 1,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 81,
+          "headings": [
+            "Vegetativo · Semana 1",
+            "Vegetativo · Semana 1"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 2,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 98,
+          "headings": [
+            "Vegetativo · Semana 1",
+            "Vegetativo · Semana 2",
+            "Vegetativo · Semana 2",
+            "Vegetativo · Semana 3",
+            "Vegetativo · Semana 3"
+          ],
+          "repeatedHeaders": 3,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 3,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 95,
+          "headings": [
+            "Vegetativo · Semana 3",
+            "Vegetativo · Semana 4",
+            "Vegetativo · Semana 4",
+            "Vegetativo · Semana 4"
+          ],
+          "repeatedHeaders": 2,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 4,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 101,
+          "headings": [
+            "Vegetativo · Semana 5",
+            "Vegetativo · Semana 5",
+            "Vegetativo · Semana 6",
+            "Vegetativo · Semana 6"
+          ],
+          "repeatedHeaders": 2,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 5,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 98,
+          "headings": [
+            "Vegetativo · Semana 6",
+            "Vegetativo · Semana 7",
+            "Vegetativo · Semana 7",
+            "Vegetativo · Semana 8",
+            "Vegetativo · Semana 8"
+          ],
+          "repeatedHeaders": 3,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 6,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 95,
+          "headings": [
+            "Vegetativo · Semana 8",
+            "Floração · Semana 1",
+            "Floração · Semana 1",
+            "Floração · Semana 2",
+            "Floração · Semana 2"
+          ],
+          "repeatedHeaders": 3,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 7,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 92,
+          "headings": [
+            "Floração · Semana 2",
+            "Floração · Semana 3",
+            "Floração · Semana 3",
+            "Floração · Semana 4",
+            "Floração · Semana 4"
+          ],
+          "repeatedHeaders": 3,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 8,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 92,
+          "headings": [
+            "Floração · Semana 4",
+            "Floração · Semana 5",
+            "Floração · Semana 5",
+            "Floração · Semana 6",
+            "Floração · Semana 6"
+          ],
+          "repeatedHeaders": 3,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 9,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 92,
+          "headings": [
+            "Floração · Semana 6",
+            "Floração · Semana 7",
+            "Floração · Semana 7",
+            "Floração · Semana 8",
+            "Floração · Semana 8"
+          ],
+          "repeatedHeaders": 3,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 10,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 93,
+          "headings": [
+            "Floração · Semana 8"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 11,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 6,
+          "headings": [],
+          "repeatedHeaders": 0,
+          "clipped": 0,
+          "minTextX": 47.91796675341797,
+          "maxTextX": 551.5401975674941
+        }
+      ],
+      "contactSheets": [
+        "incomplete-contact-1.png",
+        "incomplete-contact-2.png"
+      ],
+      "productRowHeaders": 85
+    },
+    {
+      "name": "long-many",
+      "pages": 59,
+      "measurements": [
+        {
+          "page": 1,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 90,
+          "headings": [],
+          "repeatedHeaders": 0,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 505.46124847720216
+        },
+        {
+          "page": 2,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 107,
+          "headings": [
+            "Vegetativo · Semana 1",
+            "Vegetativo · Semana 1"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 3,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 107,
+          "headings": [
+            "Vegetativo · Semana 1"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 4,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 107,
+          "headings": [
+            "Vegetativo · Semana 1"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 5,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 103,
+          "headings": [
+            "Vegetativo · Semana 1",
+            "Vegetativo · Semana 2",
+            "Vegetativo · Semana 2"
+          ],
+          "repeatedHeaders": 2,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 6,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 107,
+          "headings": [
+            "Vegetativo · Semana 2"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 7,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 117,
+          "headings": [
+            "Vegetativo · Semana 2"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 8,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 103,
+          "headings": [
+            "Vegetativo · Semana 2",
+            "Vegetativo · Semana 3",
+            "Vegetativo · Semana 3"
+          ],
+          "repeatedHeaders": 2,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 9,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 107,
+          "headings": [
+            "Vegetativo · Semana 3"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 10,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 107,
+          "headings": [
+            "Vegetativo · Semana 3"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 11,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 107,
+          "headings": [
+            "Vegetativo · Semana 3"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 12,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 103,
+          "headings": [
+            "Vegetativo · Semana 3",
+            "Vegetativo · Semana 4",
+            "Vegetativo · Semana 4"
+          ],
+          "repeatedHeaders": 2,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 13,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 117,
+          "headings": [
+            "Vegetativo · Semana 4"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 14,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 107,
+          "headings": [
+            "Vegetativo · Semana 4"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 15,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 103,
+          "headings": [
+            "Vegetativo · Semana 4",
+            "Vegetativo · Semana 5",
+            "Vegetativo · Semana 5"
+          ],
+          "repeatedHeaders": 2,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 16,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 107,
+          "headings": [
+            "Vegetativo · Semana 5"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 17,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 107,
+          "headings": [
+            "Vegetativo · Semana 5"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 18,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 101,
+          "headings": [
+            "Vegetativo · Semana 5"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 19,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 107,
+          "headings": [
+            "Vegetativo · Semana 6",
+            "Vegetativo · Semana 6"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 20,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 107,
+          "headings": [
+            "Vegetativo · Semana 6"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 21,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 107,
+          "headings": [
+            "Vegetativo · Semana 6"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 22,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 103,
+          "headings": [
+            "Vegetativo · Semana 6",
+            "Vegetativo · Semana 7",
+            "Vegetativo · Semana 7"
+          ],
+          "repeatedHeaders": 2,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 23,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 107,
+          "headings": [
+            "Vegetativo · Semana 7"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 24,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 117,
+          "headings": [
+            "Vegetativo · Semana 7"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 25,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 103,
+          "headings": [
+            "Vegetativo · Semana 7",
+            "Vegetativo · Semana 8",
+            "Vegetativo · Semana 8"
+          ],
+          "repeatedHeaders": 2,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 26,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 107,
+          "headings": [
+            "Vegetativo · Semana 8"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 27,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 107,
+          "headings": [
+            "Vegetativo · Semana 8"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 28,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 107,
+          "headings": [
+            "Vegetativo · Semana 8"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 29,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 91,
+          "headings": [
+            "Vegetativo · Semana 8",
+            "Floração · Semana 1",
+            "Floração · Semana 1"
+          ],
+          "repeatedHeaders": 2,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 30,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 105,
+          "headings": [
+            "Floração · Semana 1"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 31,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 89,
+          "headings": [
+            "Floração · Semana 1"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 32,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 91,
+          "headings": [
+            "Floração · Semana 1",
+            "Floração · Semana 2",
+            "Floração · Semana 2"
+          ],
+          "repeatedHeaders": 2,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 33,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 95,
+          "headings": [
+            "Floração · Semana 2"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 34,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 89,
+          "headings": [
+            "Floração · Semana 2"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 35,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 89,
+          "headings": [
+            "Floração · Semana 2"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 36,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 95,
+          "headings": [
+            "Floração · Semana 3",
+            "Floração · Semana 3"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 37,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 89,
+          "headings": [
+            "Floração · Semana 3"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 38,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 95,
+          "headings": [
+            "Floração · Semana 3"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 39,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 91,
+          "headings": [
+            "Floração · Semana 3",
+            "Floração · Semana 4",
+            "Floração · Semana 4"
+          ],
+          "repeatedHeaders": 2,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 40,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 89,
+          "headings": [
+            "Floração · Semana 4"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 41,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 105,
+          "headings": [
+            "Floração · Semana 4"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 42,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 91,
+          "headings": [
+            "Floração · Semana 4",
+            "Floração · Semana 5",
+            "Floração · Semana 5"
+          ],
+          "repeatedHeaders": 2,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 43,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 95,
+          "headings": [
+            "Floração · Semana 5"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 44,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 101,
+          "headings": [
+            "Floração · Semana 5"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 45,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 95,
+          "headings": [
+            "Floração · Semana 5"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 46,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 91,
+          "headings": [
+            "Floração · Semana 5",
+            "Floração · Semana 6",
+            "Floração · Semana 6"
+          ],
+          "repeatedHeaders": 2,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 47,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 105,
+          "headings": [
+            "Floração · Semana 6"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 48,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 89,
+          "headings": [
+            "Floração · Semana 6"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 49,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 91,
+          "headings": [
+            "Floração · Semana 6",
+            "Floração · Semana 7",
+            "Floração · Semana 7"
+          ],
+          "repeatedHeaders": 2,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 50,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 95,
+          "headings": [
+            "Floração · Semana 7"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 51,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 89,
+          "headings": [
+            "Floração · Semana 7"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 52,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 95,
+          "headings": [
+            "Floração · Semana 7"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 53,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 89,
+          "headings": [
+            "Floração · Semana 8",
+            "Floração · Semana 8"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 54,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 89,
+          "headings": [
+            "Floração · Semana 8"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 55,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 95,
+          "headings": [
+            "Floração · Semana 8"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 547.7942518468537
+        },
+        {
+          "page": 56,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 102,
+          "headings": [
+            "Floração · Semana 8"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 541.6247765539152
+        },
+        {
+          "page": 57,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 105,
+          "headings": [],
+          "repeatedHeaders": 0,
+          "clipped": 0,
+          "minTextX": 38.74218588574219,
+          "maxTextX": 508.0432213007057
+        },
+        {
+          "page": 58,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 97,
+          "headings": [],
+          "repeatedHeaders": 0,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 561.1407682675688
+        },
+        {
+          "page": 59,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 22,
+          "headings": [],
+          "repeatedHeaders": 0,
+          "clipped": 0,
+          "minTextX": 47.91796675341797,
+          "maxTextX": 561.1407682675688
+        }
+      ],
+      "contactSheets": [
+        "long-many-contact-1.png",
+        "long-many-contact-2.png",
+        "long-many-contact-3.png",
+        "long-many-contact-4.png",
+        "long-many-contact-5.png",
+        "long-many-contact-6.png",
+        "long-many-contact-7.png",
+        "long-many-contact-8.png"
+      ],
+      "productRowHeaders": 340
+    },
+    {
+      "name": "subcent",
+      "pages": 10,
+      "measurements": [
+        {
+          "page": 1,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 78,
+          "headings": [
+            "Vegetativo · Semana 1",
+            "Vegetativo · Semana 1"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 531.8971273342343
+        },
+        {
+          "page": 2,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 104,
+          "headings": [
+            "Vegetativo · Semana 1",
+            "Vegetativo · Semana 2",
+            "Vegetativo · Semana 2",
+            "Vegetativo · Semana 3",
+            "Vegetativo · Semana 3"
+          ],
+          "repeatedHeaders": 3,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 531.8971273342343
+        },
+        {
+          "page": 3,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 101,
+          "headings": [
+            "Vegetativo · Semana 3",
+            "Vegetativo · Semana 4",
+            "Vegetativo · Semana 4"
+          ],
+          "repeatedHeaders": 2,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 531.8971273342343
+        },
+        {
+          "page": 4,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 109,
+          "headings": [
+            "Vegetativo · Semana 5",
+            "Vegetativo · Semana 5",
+            "Vegetativo · Semana 6",
+            "Vegetativo · Semana 6"
+          ],
+          "repeatedHeaders": 2,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 531.8971273342343
+        },
+        {
+          "page": 5,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 104,
+          "headings": [
+            "Vegetativo · Semana 6",
+            "Vegetativo · Semana 7",
+            "Vegetativo · Semana 7",
+            "Vegetativo · Semana 8",
+            "Vegetativo · Semana 8"
+          ],
+          "repeatedHeaders": 3,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 531.8971273342343
+        },
+        {
+          "page": 6,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 100,
+          "headings": [
+            "Vegetativo · Semana 8",
+            "Floração · Semana 1",
+            "Floração · Semana 1",
+            "Floração · Semana 2",
+            "Floração · Semana 2"
+          ],
+          "repeatedHeaders": 3,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 531.8971273342343
+        },
+        {
+          "page": 7,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 96,
+          "headings": [
+            "Floração · Semana 2",
+            "Floração · Semana 3",
+            "Floração · Semana 3",
+            "Floração · Semana 4",
+            "Floração · Semana 4"
+          ],
+          "repeatedHeaders": 3,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 531.8971273342343
+        },
+        {
+          "page": 8,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 96,
+          "headings": [
+            "Floração · Semana 4",
+            "Floração · Semana 5",
+            "Floração · Semana 5",
+            "Floração · Semana 6",
+            "Floração · Semana 6"
+          ],
+          "repeatedHeaders": 3,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 531.8971273342343
+        },
+        {
+          "page": 9,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 96,
+          "headings": [
+            "Floração · Semana 6",
+            "Floração · Semana 7",
+            "Floração · Semana 7",
+            "Floração · Semana 8",
+            "Floração · Semana 8"
+          ],
+          "repeatedHeaders": 3,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 531.8971273342343
+        },
+        {
+          "page": 10,
+          "width": 594.95996,
+          "height": 841.91998,
+          "textItems": 91,
+          "headings": [
+            "Floração · Semana 8"
+          ],
+          "repeatedHeaders": 1,
+          "clipped": 0,
+          "minTextX": 33.74999859375,
+          "maxTextX": 551.5401975674941
+        }
+      ],
+      "contactSheets": [
+        "subcent-contact-1.png",
+        "subcent-contact-2.png"
+      ],
+      "productRowHeaders": 85
+    }
+  ],
+  "passed": true
+}
